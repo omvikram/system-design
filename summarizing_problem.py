@@ -27,7 +27,7 @@
 # Summarizing Service - Exposed API under ELB
 # Store the input/output in Database
 
-## HIGH LEVEL DESIGN
+## LOW LEVEL DESIGN
 ########################################
 # Multiple Clients - Web, Apps etc
 # Wrapper APIs - Exposed API under ELB
