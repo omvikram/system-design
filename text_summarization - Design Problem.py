@@ -1,4 +1,4 @@
-# "In our company we already have developed a great library that can be used to summarize text articles. 
+# "Design a system which can summarize text articles. 
 # Just feed it the whole text and it will return a decent summary that is just a few sentences long.
 
 ## FEATURES
