@@ -1,8 +1,9 @@
 ## Problem Solving & System Design
  
-## I asked him to design a solution where a GO-MMT Cars/Bike traveller who is travelling between A-B (source-destination) 
-## founds a roadblock/pothole/construction work due to which the traveller needs to change the direction, 
-## how can he update GO-MMT app and notify rest of the customers who is also planning to travel the same A-B route on the very same day.
+## Design a solution where a GO-MMT Cars/Bike traveller who is travelling between A-B (source-destination) 
+## founds a roadblock/pothole/construction work due to which the journey needs to change the direction, 
+## how can the driver update GO-MMT app about the blocker on the route and 
+# how can GO-MMT notify rest of the customers who is also planning to travel via the same blocker route on the very same day.
 
 # How to save Route information
 # How to find other travellers in the same route
